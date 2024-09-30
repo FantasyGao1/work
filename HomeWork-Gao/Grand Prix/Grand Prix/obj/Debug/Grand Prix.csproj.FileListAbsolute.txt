@@ -1,0 +1,20 @@
+C:\Users\v-yutingsun\OneDrive - Microsoft\桌面\学习计划\大作业\Grand Prix\Grand Prix\obj\Debug\Grand Prix.csproj.AssemblyReference.cache
+C:\Users\v-yutingsun\OneDrive - Microsoft\桌面\学习计划\大作业\Grand Prix\Grand Prix\obj\Debug\Grand Prix.csproj.CoreCompileInputs.cache
+C:\Users\v-yutingsun\OneDrive - Microsoft\桌面\学习计划\大作业\Grand Prix\Grand Prix\bin\Debug\Grand Prix.exe.config
+C:\Users\v-yutingsun\OneDrive - Microsoft\桌面\学习计划\大作业\Grand Prix\Grand Prix\bin\Debug\Grand Prix.exe
+C:\Users\v-yutingsun\OneDrive - Microsoft\桌面\学习计划\大作业\Grand Prix\Grand Prix\bin\Debug\Grand Prix.pdb
+C:\Users\v-yutingsun\OneDrive - Microsoft\桌面\学习计划\大作业\Grand Prix\Grand Prix\bin\Debug\ConsoleTables.dll
+C:\Users\v-yutingsun\OneDrive - Microsoft\桌面\学习计划\大作业\Grand Prix\Grand Prix\bin\Debug\ConsoleTables.pdb
+C:\Users\v-yutingsun\OneDrive - Microsoft\桌面\学习计划\大作业\Grand Prix\Grand Prix\obj\Debug\Grand Prix.csproj.Up2Date
+C:\Users\v-yutingsun\OneDrive - Microsoft\桌面\学习计划\大作业\Grand Prix\Grand Prix\obj\Debug\Grand Prix.exe
+C:\Users\v-yutingsun\OneDrive - Microsoft\桌面\学习计划\大作业\Grand Prix\Grand Prix\obj\Debug\Grand Prix.pdb
+C:\Users\gaoxiangyu\Desktop\学习计划 1\学习计划\大作业\Grand Prix\Grand Prix\bin\Debug\Grand Prix.exe.config
+C:\Users\gaoxiangyu\Desktop\学习计划 1\学习计划\大作业\Grand Prix\Grand Prix\bin\Debug\Grand Prix.exe
+C:\Users\gaoxiangyu\Desktop\学习计划 1\学习计划\大作业\Grand Prix\Grand Prix\bin\Debug\Grand Prix.pdb
+C:\Users\gaoxiangyu\Desktop\学习计划 1\学习计划\大作业\Grand Prix\Grand Prix\bin\Debug\ConsoleTables.dll
+C:\Users\gaoxiangyu\Desktop\学习计划 1\学习计划\大作业\Grand Prix\Grand Prix\bin\Debug\ConsoleTables.pdb
+C:\Users\gaoxiangyu\Desktop\学习计划 1\学习计划\大作业\Grand Prix\Grand Prix\obj\Debug\Grand Prix.csproj.AssemblyReference.cache
+C:\Users\gaoxiangyu\Desktop\学习计划 1\学习计划\大作业\Grand Prix\Grand Prix\obj\Debug\Grand Prix.csproj.CoreCompileInputs.cache
+C:\Users\gaoxiangyu\Desktop\学习计划 1\学习计划\大作业\Grand Prix\Grand Prix\obj\Debug\Grand Prix.csproj.Up2Date
+C:\Users\gaoxiangyu\Desktop\学习计划 1\学习计划\大作业\Grand Prix\Grand Prix\obj\Debug\Grand Prix.exe
+C:\Users\gaoxiangyu\Desktop\学习计划 1\学习计划\大作业\Grand Prix\Grand Prix\obj\Debug\Grand Prix.pdb

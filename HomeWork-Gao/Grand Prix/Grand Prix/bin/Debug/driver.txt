@@ -1,0 +1,6 @@
+RuoxinSun, 1, cornering, True, 0
+SongsongXie, 2, overtaking, True, 0
+ZehaoSun, 3, cornering, True, 0
+BlusLee, 4, breaking, True, 0
+Andrew, 5, overtaking, True, 0
+YuhanDing, 6, breaking, True, 0
